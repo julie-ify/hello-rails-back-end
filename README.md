@@ -4,6 +4,8 @@
 
 > This exercise is to set up a rails back end application using rails API only application.
 
+[Link to my React app](https://github.com/julie-ify/hello-react-front-end)
+
 ## The learning objective of this project are
 
 - Use controllers to handle requests and render empty views.
